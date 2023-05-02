@@ -1,7 +1,5 @@
+Hola! Bienvenido a mi repositorio.
 
-Hola, soy Luis, tengo interes en todo tipo de desarrollo, ya saben, desde web hasta movil pasando por escritorio, jajaja, me gusta mucho todo tipo de desarrollo.
+Mi nombre es Luis Gerardo, soy egresado de ESCOM del IPN, en la carrera de Ingeniera en Sistemas Computacionales, este reposotirio contiene algunas practicas escolares que crei relevantes subir aqui, ademas de tener mi proyecto de titulacion aqui incluido
 
-Me gusta mucho Python, tengo un amor odio por C, y me se conducir por JAVA y C#. Me gusta mucho el tema de seguridad, de desarrollo, etc. La tecnologia y el codigo me gusta mucho.
-Actualmente estoy aprendiendo mucho acerca de Backend, la parte del servidor, de la base de datos.
-
-Mi repositorio es especial porque lo hice con algo de empeño, las practicas que realice en la Superior (Universidad), parte de lo que hice esta aqui. 
+Tengo interes en todo tipo de desarrollo, pero actualmente me encuentro laborando en el Desarrollo de BackEnd con Python, de hecho mi proyecto de titulacion, esta programado con Python, una API que se conecta a todo.
